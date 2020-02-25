@@ -1,6 +1,3 @@
----
-title: Work in Progress
----
 ## This site is a work in progress!
 
 You can use the [editor on GitHub](https://github.com/wiresnek/wiresnek.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
